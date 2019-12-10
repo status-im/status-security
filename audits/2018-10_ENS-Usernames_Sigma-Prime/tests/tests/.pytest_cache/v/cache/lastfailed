@@ -1,0 +1,10 @@
+{
+  "test_register.py::test_no_double_release": true,
+  "test_register.py::test_no_early_release": true,
+  "test_register.py::test_no_other_release": true,
+  "test_register.py::test_register_double": true,
+  "test_register.py::test_register_empty": true,
+  "test_register.py::test_register_sub_user_as_single": true,
+  "test_register.py::test_register_two_people": true,
+  "test_register.py::test_release_allowed": true
+}

@@ -1,0 +1,18 @@
+[
+  "tests/test_slashing.py::test_slash_address_with_no_reserve",
+  "tests/test_slashing.py::test_slash_address_like_username_usernameok",
+  "tests/test_slashing.py::test_slash_address_like_username_startwithO",
+  "tests/test_slashing.py::test_slash_address_like_username_capitalX",
+  "tests/test_slashing.py::test_slash_address_like_username_0xnotaddress",
+  "tests/test_slashing.py::test_slash_address_like_username_isaddress",
+  "tests/test_slashing.py::test_slash_invalid_username_notinvalid",
+  "tests/test_slashing.py::test_slash_invalid_username_invalid",
+  "tests/test_slashing.py::test_slash_reserved_username_empty_reserved",
+  "tests/test_slashing.py::test_slash_reserved_username_empty_proof",
+  "tests/test_slashing.py::test_slash_reserved_username_wrong_proof",
+  "tests/test_slashing.py::test_slash_reserved_username_upper",
+  "tests/test_slashing.py::test_slash_reserved_username_reserved_correct",
+  "tests/test_slashing.py::test_slash_small_username_notsmall",
+  "tests/test_slashing.py::test_slash_small_username_exact",
+  "tests/test_slashing.py::test_slash_small_username_small"
+]

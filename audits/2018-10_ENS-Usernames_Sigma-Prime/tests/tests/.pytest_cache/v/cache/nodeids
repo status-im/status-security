@@ -1,0 +1,10 @@
+[
+  "test_register.py::test_register_double",
+  "test_register.py::test_register_two_people",
+  "test_register.py::test_register_empty",
+  "test_register.py::test_register_sub_user_as_single",
+  "test_register.py::test_no_early_release",
+  "test_register.py::test_no_other_release",
+  "test_register.py::test_release_allowed",
+  "test_register.py::test_no_double_release"
+]

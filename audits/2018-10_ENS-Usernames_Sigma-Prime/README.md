@@ -3,4 +3,6 @@ Audit was performed on the ENS Username Contract at commit hash [eaefa92](https:
 
 ## Resources
 - [Sigma Prime Blog Post](https://blog.sigmaprime.io/status-ens-review.html)
-- 
+- [Sigma Prime Final Report](./Sigma_Prime-ENS_Usernames_Report-FInalized.pdf)
+- [code](./code)
+- [tests](./tests/build)
