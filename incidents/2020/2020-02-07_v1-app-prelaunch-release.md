@@ -49,6 +49,7 @@ This affects users in a multitude of ways, and violates the Status principles in
 | 2020-02-05 13:21 | Apple submission set to `In Review` |
 | 2020-02-05 17:21 | Apple submission set to `Pending Developer Release` |
 | 2020-02-06 07:29 | @andre announces on Discord that app was approved and is live |
+| 2020-02-06 07:38 | Android set to `Ready for Sale` by `me@andremedeiros.info` |
 | 2020-02-06 07:46 | @jakubgs asks in Discord if Android auto-updates and is quickly confirmed that it does by @cammellos |
 | 2020-02-06 07:7:47 | @cammellos says in Discord that `that probably will break a few apps` |
 | 2020-02-06 07:7:56 | @andre confirms on Discord that apple app store listing is live |
@@ -67,8 +68,7 @@ This affects users in a multitude of ways, and violates the Status principles in
 | 2020-02-06 10:31 | @rachel announces in Discord: `buttt if they've been auto updated they'll have to recover + if seed phrase is lost, it's lost.  post is live: https://our.status.im/announcing-status-version-1-0/` |
 | 2020-02-06 10:36 | @andre finds that existing beta users can be affected by auto-update, @rachel mentions that this can lead to loss of funds potentially, and that she thinks we need damage control comms for usres who are forcibly upgraded |
 | 2020-02-06 10:43 | @andre announces he's making the app unavailble in all countries for now, which should stop rolling update |
+| 2020-02-06 11:03 | Android set to `Developer Removed From Sale` by `me@andremedeiros.info` |
 | 2020-02-06 11:05 | @fizzgig says `It's unfortunate, I'm sorry to point this out because everyone has been working so hard, the app looks fantastic and feels solid, but this should be a valuable lesson to those who argued against doing a migration strategy. I hope it's clear we can't have these things happen moving forward. Accidents happen, and thank you everyone for your response.` |
-| 2020-02-06 19:38 | Android set to `Ready for Sale` by `me@andremedeiros.info` |
-| 2020-02-06 23:03 | Android set to `Developer Removed From Sale` by `me@andremedeiros.info` |
 
 ## Other Mitigation Actions
