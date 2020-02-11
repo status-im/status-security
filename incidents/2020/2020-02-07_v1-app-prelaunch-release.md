@@ -13,10 +13,10 @@ Corey Petty
 
 ## Summary
 
-The Status app was published to v1.0.0 on the Android Play Store
+The Status app was published to v1.0.0 on the Android Play Store before it was intended. 
 
 ## The Impact
-Descripiton of impact
+At the point of writing this, there were 
 
 This affects users in a multitude of ways, and violates the Status principles in the following ways:
 - **principle 1** - 
@@ -26,19 +26,27 @@ This affects users in a multitude of ways, and violates the Status principles in
 ## Trigger
 
 ## Resolution
+- Removal of the application from production in both iOS and Android Play app stores.
 
 ## Action Items
-| Action Item | Type | Owner | Reference |
-| ----------- | ---- | ----- | --- |
-| Item 1 |  |  | **TODO** |
-
+| Action Item | Type | Owner | Reference | Notes |
+| ----------- | ---- | ----- | --------- | ----- |
+| Development of Release Process | prevent | ??? | **TODO** | description here |
+| Remove publication from app stores | mitigate | Andre | **DONE** | descripton here |
+| Figure out auto-update process | prevent | jakubgs | **DONE** | see [Jakub's recovery process](#jakub-building-auto-update-recovery) | 
+| ... another item | mitigate/prevent | ?? | **TODO** | descripton here |
+| explore future beta channel options | improve | andre | **TODO** | descripton here |
 
 ## Lessons Learned
 ### What went well
+- 
 
 ### What went wrong
+- 500+ users were upgraded from beta to V1 potentially without knowledge of potential breakage and time to back up appropriate material
+- There was a lack of coordination on the release process.
 
 ### Where we got lucky
+- we have a relatively low userbase
 
 ## Timeline
 
@@ -72,3 +80,20 @@ This affects users in a multitude of ways, and violates the Status principles in
 | 2020-02-06 11:05 | @fizzgig says `It's unfortunate, I'm sorry to point this out because everyone has been working so hard, the app looks fantastic and feels solid, but this should be a valuable lesson to those who argued against doing a migration strategy. I hope it's clear we can't have these things happen moving forward. Accidents happen, and thank you everyone for your response.` |
 
 ## Other Mitigation Actions
+
+### Jakub building auto-update recovery
+conversation taken from `core-infra` of discord:
+```
+jakubgsToday at 8:57 AM
+well, there's no PR
+I just rebuilt and old APK
+for 0.13.1
+with new build number
+so someone can get that APK
+and install it on top of 1.0.0
+and recover their old account
+which used a different db schema/file
+http://status-im.ams3.digitaloceanspaces.com/StatusIm-200211-140000-7f38c5-release.apk
+this is the APK
+because it's versionCode is higher than that of v1.0.0 we accidentally released a user that has lost access to their old account can recover it installing that APK over the v1.0.0
+```
