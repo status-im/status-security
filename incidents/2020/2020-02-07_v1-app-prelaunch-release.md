@@ -35,10 +35,11 @@ This affects users in a multitude of ways, and violates the Status principles in
 | Remove publication from app stores | mitigate | Andre | **DONE** | descripton here |
 | Figure out auto-update process | prevent | jakubgs | **DONE** | see [Jakub's recovery process](#jakub-building-auto-update-recovery) | 
 | ... another item | mitigate/prevent | ?? | **TODO** | descripton here |
-| explore future beta channel options | improve | andre | **TODO** | descripton here |
+| explore future beta channel options | improvement | andre | **TODO** | descripton here |
 
 ## Lessons Learned
 ### What went well
+- It appears as though not many users were impacted negatively in the time the version was in the app store and upgraded/installed
 - 
 
 ### What went wrong
