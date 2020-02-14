@@ -1,21 +1,31 @@
 - [Frequently Asked Questions](#frequently-asked-questions)
   - [ENS Names](#ens-names)
+    - [What does "intrisic gas too low" mean?](#what-does-%22intrisic-gas-too-low%22-mean)
     - [What do I need to get a username?](#what-do-i-need-to-get-a-username)
     - [Why can't I see anyone's ENS username?](#why-cant-i-see-anyones-ens-username)
   - [Wallet](#wallet)
     - [Can I import a private key?](#can-i-import-a-private-key)
     - [I restored from my seed phrase, but can't see any of the funds in my wallet, and the address is different.  My beta account was created before March 2018.](#i-restored-from-my-seed-phrase-but-cant-see-any-of-the-funds-in-my-wallet-and-the-address-is-different-my-beta-account-was-created-before-march-2018)
+  - [Chat Rooms](#chat-rooms)
+    - [How can I make a chat room?](#how-can-i-make-a-chat-room)
+    - [Where are private group chats?](#where-are-private-group-chats)
+    - [Can Status or anyone else see my messages?](#can-status-or-anyone-else-see-my-messages)
   - [Misc](#misc)
     - [How can I import my contacts?](#how-can-i-import-my-contacts)
     - [Why am I not getting push notifications?](#why-am-i-not-getting-push-notifications)
     - [I was auto-updated on android, I don't have my seedphrase from beta, and I can't access my account now.  What do I do?](#i-was-auto-updated-on-android-i-dont-have-my-seedphrase-from-beta-and-i-cant-access-my-account-now-what-do-i-do)
+  - [When Dark-mode?](#when-dark-mode)
 
 # Frequently Asked Questions
 
 ## ENS Names
 
+### What does "intrisic gas too low" mean?
+It means you do not have enough ETH or SNT in your Status wallet to register an ENS username. See [this section](###what-do-i-need-to-get-a-username) for an explanation
+
+
 ### What do I need to get a username?
-In order to regsiter an ENS username (`<yourname>.stateofus.eth`) you need to have both 10 SNT and a little bit of ETH (for gas) in your Status wallet.  
+In order to regsiter an ENS username (`<yourname>.stateofus.eth`) you need to have both 10 SNT and a little bit of ETH (for gas) in your Status wallet to make the required Ethereum transaction.  
 
 The name will be unique and yours until you decide to let it go, upon which you will receive your original 10 SNT back into your wallet. 
 
@@ -46,6 +56,27 @@ NOTE: DO NOT GIVE YOUR SEED PHRASE TO ANYONE DURING THIS PROCEDURE
 
 Please download the [key-util](https://github.com/status-im/security-utils/tree/master/key-util) tool and follow the instructions on the page to use the `legacySeedToKey` command. If the instructions are unclear, please ask for help in the #support channel of the Status app, or contact security@status.im via email. 
 
+## Chat Rooms
+
+### How can I make a chat room?
+You do not need permission to create a public chat room, anyone can do it.  There are a few ways in which you can do this:
+1. Click the `+` icon in the chat screen and choose `Join public shat`.  Type in whatever chatroom name you desire.  If that room exists, you will joing it, if it doesn't, you will create it.
+2. Type in any chat the name of the chat room you desire with at `#` in front of it, _e.g._ `#my-chatroom-name`.  This will create a link in the chat which can be clicked to take you to that room.
+
+### Where are private group chats?
+We have disabled the private group chat option that has been developed in order to fix a few usability issues first.  We want to make sure what has a certain level of security, privacy, and usability before releasing it.  
+
+The current version being developed is derived from Open Whisper Systems' [protocol for Signal](https://signal.org/docs/), but changed for a decentralized context. In other words, it is really private and secure.
+
+In the meantime, a decent way to have a private conversation with a group of people is to make a public channel with the name of the channel being a shared secret. Only people who know the name of the channel can talk inside of it or read the messages if they are monitoring the network. Meaning the better the secret, the more likely no one is listening.
+
+Of course, we can't know for sure who is or isn't in a public chat room, so we cannot provide any guarantees of privacy with this method. 
+
+### Can Status or anyone else see my messages?
+Only the intended recipients can see a message sent by you.  Any infrastructure that passes messages around the network are encrypted, sometimes multiple times, so the servers just see encrypted blobs.  
+
+Even public room chats are encrypted by a symmetric key derived from the name of the chatroom, so those who don't know the name can't read the message either. 
+
 ## Misc
 
 ### How can I import my contacts?
@@ -71,3 +102,5 @@ This process will not allow you to upgrade to V1.  You will have to delete the a
 
 BE SURE TO BACK UP YOUR SEED PHRASE THIS TIME.
 
+## When Dark-mode?
+> It’s a lot of work for me that spans hundreds of artboards for something that I don’t see that valuable in the grand scheme of things. We have a product design roadmap, it’s there and we’ll get there but I don’t want it to chase down the loudest requests in the room.
