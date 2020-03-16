@@ -5,7 +5,8 @@ Repository for all Status Network related security information
 All of Status' audits and their respective resources can be found in the [audits](./audits) folder
 
 ## Retainer
-Status currently maintains an ongoing retainer contract with Trail of Bits to help with overall security coverage.
+~~Status currently maintains an ongoing retainer contract with Trail of Bits to help with overall security coverage.~~
+This retainer has been stopped.
 
 ## Bug Bounty
 Status currently has a private campaign on the HackerOne platform for bug bounties. We are currently underway to expand this program’s scope and availability post-V1 mobile app release to become public and the de-facto standard method for reporting found vulnerabilities within the Status ecosystem. 
