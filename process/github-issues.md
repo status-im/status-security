@@ -1,4 +1,4 @@
-# Security Process Using Github Issues (DRAFT)
+# Security Process Using Github Issues (v1)
 This document outlines the process of using Github issues to coordinate security issues of a given project.
 
 ## Should you use Github issues?
