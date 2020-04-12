@@ -21,11 +21,16 @@ It is an inherently collaborative process between all relevant domain experts of
 ## Why
 There are many blogs and other resources (see [Resources](##Resources) for some of them) that can describe why any company or team should actively threat model, but I will try and focus a bit more on why Status should, which will overlap heavily with those blogs. 
 
+A successful threat modeling will yield answers to (at least) the following questions:
+- Where is value stored in this system (assets)?
+- How is value secured within the system (security controls)?
+- Who are all of the potential actors in the system, both malicious and non-malicious (actors)?
 
 
 ## How
 ### A Product
 #### The Diagram
+You want to draw a diagram that gives an architectual overview of the product
 #### The Description
 
 ### A Protocol
@@ -33,3 +38,7 @@ There are many blogs and other resources (see [Resources](##Resources) for some 
 #### The Description
 
 ## Resources
+### Diagram Tools
+- [Miro](https://miro.com) - paid, collaborative, excellent integration support
+- [Diagrams.net (draw.io)](https://app.diagrams.net) - free, open-source, good options and integrations, kinda-collaborative, web or desktop application
+- 
