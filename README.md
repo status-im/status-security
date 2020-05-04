@@ -1,5 +1,5 @@
 # status-security
-Repository for all Status Network related security information
+Repository for all **public** Status Network related security information
 
 ## Audits
 All of Status' audits and their respective resources can be found in the [audits](./audits) folder

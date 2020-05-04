@@ -1,3 +1,5 @@
+## Remark: Post-Mortems are published after the findings were reported and mitigated.
+
 ---
 title: Incident Title
 tags: postmortem, security, transparency

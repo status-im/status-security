@@ -2,7 +2,12 @@
 This document outlines the process of using Github issues to coordinate security issues of a given project.
 
 ## Should you use Github issues?
- Before submitting any issues, the Discloser should have already engaged in a conversation with the Status Security team about appropriate methods of disclosure for a given project. This should be described in the SECURITY.md file within any given repository. If it is not, then follow the advice of this repository's README.md. If the discloser is still unsure, then please request guidance at security@status.im. 
+ Before submitting any issues, be advised: Internal findings are published as Post-Mortems after
+ they were reported and mitigated. The Discloser should have already engaged in a conversation
+ with the Status Security team about appropriate methods of disclosure for a given project.
+ This should be described in the SECURITY.md file within any given repository.
+ If it is not, then follow the advice of this repository's README.md.
+ If the discloser is still unsure, then please request guidance at security@status.im.
 
 ## Process
 Once the discloser is aware that Github issues are the appropriate methodology of disclosure, the following procedure is **RECOMMENDED****:
