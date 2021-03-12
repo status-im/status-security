@@ -1,19 +1,4 @@
 # Frequently Asked Questions
-- [[#ENS Names|ENS Names]]
-	- [[#What does "intrisic gas too low" mean?|What does "intrisic gas too low" mean?]]
-	- [[#What do I need to get a username?|What do I need to get a username?]]
-	- [[#Why can't I see someone's ENS username?|Why can't I see someone's ENS username?]]
-- [[#Wallet|Wallet]]
-	- [[#Can I import a private key?|Can I import a private key?]]
-	- [[#I restored from my seed phrase, but can't see any of the funds in my wallet, and the address is different.  My beta account was created before March 2018.|I restored from my seed phrase, but can't see any of the funds in my wallet, and the address is different.  My beta account was created before March 2018.]]
-- [[#Chat Rooms|Chat Rooms]]
-	- [[#How can I make a chat room?|How can I make a chat room?]]
-	- [[#Where are private group chats?|Where are private group chats?]]
-	- [[#Can Status or anyone else see my messages?|Can Status or anyone else see my messages?]]
-- [[#Misc|Misc]]
-	- [[#How can I import my contacts?|How can I import my contacts?]]
-	- [[#I was auto-updated on android, I don't have my seedphrase from beta, and I can't access my account now.  What do I do?|I was auto-updated on android, I don't have my seedphrase from beta, and I can't access my account now.  What do I do?]]
-
 
 ## ENS Names
 
