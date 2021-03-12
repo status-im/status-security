@@ -41,4 +41,5 @@ You want to draw a diagram that gives an architectual overview of the product
 ### Diagram Tools
 - [Miro](https://miro.com) - paid, collaborative, excellent integration support
 - [Diagrams.net (draw.io)](https://app.diagrams.net) - free, open-source, good options and integrations, kinda-collaborative, web or desktop application
-- 
+- [Draw.io Threat Modeling Examples](https://github.com/michenriksen/drawio-threatmodeling)
+- [Threat Modeling LinkTree](https://linktr.ee/threatmodel)

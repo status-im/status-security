@@ -6,7 +6,7 @@ This document outlines the process of using Github issues to coordinate security
  they were reported and mitigated. The Discloser should have already engaged in a conversation
  with the Status Security team about appropriate methods of disclosure for a given project.
  This should be described in the SECURITY.md file within any given repository.
- If it is not, then follow the advice of this repository's README.md.
+ If it is not, then follow the advice of this repository's [README.md](../README.md).
  If the discloser is still unsure, then please request guidance at security@status.im.
 
 ## Process
