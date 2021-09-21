@@ -1,0 +1,33 @@
+# GitHub account phishing
+
+## 3.4.2020
+
+## Summary
+A non-obvious phishing campaign targeted several private mail accounts of status devs with the potential for account takeover or establishing an on device foothold. With (spear-) phishing being an ongoing and hard to mitigate threat, a non-judgemental incident culture for phishing is a good practice and seemed to work well. The company wide 2fa policy should mitigate the larger part of a successful attacks.
+
+## The Impact
+No known impact.
+
+### Scope
+Private and company mail accounts.
+
+## Trigger
+![Screenshot_20200404-115849](https://user-images.githubusercontent.com/61156799/79772495-70103280-8330-11ea-9a7f-24b900d9184e.png)
+
+## Action Items
+| Action Item | Type |
+| ----------- | ---- |
+| Further move away from email for authorization and communication to OAuth 2.0/discord. Get feedback from stakeholders, Kick off culture transition | Security culture, structural change |  
+| Company wide "incident" channel in discord to make publishing this kind of attack easier and speed up warnings. Clearly define channel purpose, Create channel | Infra | 
+
+
+
+## Lessons Learned
+### What went well
+The phishing mail was in circulation promptly to inform other status employees.
+
+### What went wrong
+It's not clear if all employees of status received the headsup. Ideally we would be able to track the origin and impact of this kind of attack more closely.
+
+### Where we got lucky
+Smarts and instincts by the affected folks!
