@@ -72,6 +72,8 @@ If you are new to Linux you will most likely start with one of the following dis
 The installation process should not be more difficult than installing Apple macOS or MS Windows. Most choices to make will be about the language, locals, timezone, keyboard & target installation disk.
 The copy on the disk is usually very fast nowadays (~10 20 minutes)  
 
+Note that you can still keep your previous operating system (like MS Windows) intact on a distinct partition and boot on it if necessary (like to perform firmware upgrades).
+
 **Attention**
 You should be careful to make sure full disk encryption is enabled during the installation:
 
