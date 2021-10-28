@@ -42,6 +42,7 @@ Some specialized computer vendors sell privacy-preserving laptops pre-installed 
 
 - System76 https://system76.com/ & its Pop OS! distribution
 - Purism Librem https://puri.sm/products/ & its PureOS distribution
+- Tuxedo https://www.tuxedocomputers.com/en
 
 Some traditional computer manufacturers now also sell laptops with Linux preinstalled:
 
