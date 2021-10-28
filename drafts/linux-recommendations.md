@@ -59,6 +59,8 @@ In general, most Intel/AMD based computers will support Linux pretty well nowada
 
 You can probably find reports on most computer models in the Linux Hardware project database https://linux-hardware.org/?view=computers
 
+Note that Linux compatibility can vary for special hardware like docking stations.
+
 #### Linux Distributions for beginners
 
 If you are new to Linux you will most likely start with one of the following distributions as they are very easy to install & use:
