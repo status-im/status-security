@@ -49,6 +49,8 @@ Some traditional computer manufacturers now also sell laptops with Linux preinst
 - Dell https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems
 - Lenovo https://www.lenovo.com/us/en/d/linux-laptops-desktops/
 
+If those manufacturers do not ship the specific model preinstalled with Linux in your country. The fact that a model can be shipped with Linux is still a valuable information in terms of compatibility. 
+
 ### Install Linux on an existing computer
 
 #### Hardware compatibility
