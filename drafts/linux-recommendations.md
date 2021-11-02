@@ -31,14 +31,14 @@ This is much more difficult or even impossible on Linux.
 Running Linux in a Virtual Machine is the best way to get a feel of what to expect.
 For some use cases, it could also be acceptable to operate long term by running Linux in a VM.
 But be aware from a security point of view, a VM and guest operating system will always somehow inherit the security of the host.
-Meaning that if your main host system is compromised, you should ultimately consider the guess insecure too. 
+Meaning that if your main host system is compromised, you should ultimately consider the guess insecure too (even this can be partially mitigated by disk encryption of the guest OS). 
 
 The most popular choice for virtualization is the free VirtualBox solution https://www.virtualbox.org/
 
 
 ### Buy a laptop with Linux pre-installed
 
-Some specialized computer vendors sell privacy-preserving laptops pre-installed with Linux. The two most popular ones being: 
+Some specialized computer vendors sell privacy-preserving laptops pre-installed with Linux. The most popular ones being: 
 
 - System76 https://system76.com/ & its Pop OS! distribution
 - Purism Librem https://puri.sm/products/ & its PureOS distribution
@@ -48,6 +48,8 @@ Some traditional computer manufacturers now also sell laptops with Linux preinst
 
 - Dell https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems
 - Lenovo https://www.lenovo.com/us/en/d/linux-laptops-desktops/
+
+Some manufacturers like Framework are also dedicated to support Linux https://frame.work/blog/linux-on-the-framework-laptop
 
 If those manufacturers do not ship the specific model preinstalled with Linux in your country. The fact that a model can be shipped with Linux is still a valuable information in terms of compatibility. 
 
@@ -87,6 +89,7 @@ You should be careful to make sure full disk encryption is enabled during the in
 #### Other Linux Distributions 
 
 Other popular Linux distributions includes:
+- Pop!OS https://pop.system76.com/
 - Debian https://debian.org/
 - CentOS https://www.centos.org/centos-stream/
 - RedHat Enterprise Linux https://developers.redhat.com/blog/2016/03/31/no-cost-rhel-developer-subscription-now-available
