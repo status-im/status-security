@@ -83,6 +83,90 @@ Additionally we have a list of known issues tagged [security](https://github.com
 ## [Status.im Feedback](https://docs.google.com/forms/d/1neYv8gi3kFbtY8fNbp3v3f0meLd1BZ9zHxDdVG9ptOg/edit)
 * We want to ensure that we are running a fun and engaging bug bounty program. For that reason, we would love to hear your feedback on how we can improve our program. If there is anything we can do additional to help facilitate your testing, please let us know by filling out the form above.
 
+## Treasure Map
+
+#### 1. Mobile Apps
+
+**1.1. High-Level Tech Stack**
+
+|      |       Android        |         iOS          |
+| ---- |:--------------------:|:--------------------:|
+| Clojurescript | platform independent | platform independent |
+| re-frame framework | platform independent | platform independent |
+| reagent | platform independent | platform independent |
+| react native | platform independent | platform independent | 
+| react native bindings | java | objective-c |
+| status-go | golang, cross compiled to a c library used with JNI | golang, cross compiled to a c library used with objective-c |
+
+**1.2. Threat Model**
+
+A threat model is essentially a structured representation of all the information that affects the security of an application. In essence, it is a view of the application and its environment through Status's security team glasses.
+
+On the other hand, you can see the high-level diagram on the threat model to understand architectural details.
+
+Our threat model is created on diagrams.net and stores on GitHub. To review our threat model, please follow the [link](https://github.com/status-im/status-security/blob/master/threat-modeling/Mobile-Wallet/DFD-wallet-L00).
+
+**1.3. Assets**
+
+**1.3.1. Private Messenger**
+
+**- What is this?**
+
+Its most essential responsibilities are to manage chats, messages, and contacts of the user.
+
+**- How should it work?**
+
+It should keep the data safe, encrypted on disk when the user is not logged in. 
+It should process incoming messages and store them on a disk.
+
+**- What to look for?**
+
+Problems with encryption, DOS caused by some particular kind of message, crashes.
+
+**- Tech Stack**
+
+Golang
+
+**- Related assets**
+
+status-go
+
+**1.3.2. Secure Crypto Wallet**
+
+**- What is this?**
+
+A wallet for your assets, compatible with the Ethereum blockchain and ERC20 tokens
+
+**- How should it work?**
+
+It should keep your assets safe, make sure that any transaction is authorized
+
+**- What to look for?**
+
+Spoofing, tricking the user into signing a transaction, unsafe storage of keys etc.
+
+**- Tech Stack**
+status-go (golang), status-react
+
+
+**1.3.3. Web3 Browser**
+
+**- What is this?**
+
+A browser that enables the user to use dapps
+
+**- How should it work?**
+
+Mostly like a normal browser, but users should be able to access dapps with it, by connecting their wallet
+
+**- What to look for?**
+
+Unsecure content being loaded, URL spoofing, etc
+
+
+**- Tech Stack**
+Android webview, react native webview, status-react stack
+
 
 
 ## Safe Harbor
@@ -91,3 +175,5 @@ Any activities conducted in a manner consistent with this policy will be conside
 
 
 Thank you for helping keep Status.im and our users safe; happy hacking!
+
+
