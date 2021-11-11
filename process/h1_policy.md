@@ -161,7 +161,7 @@ Mostly like a normal browser, but users should be able to access dapps with it, 
 
 **- What to look for?**
 
-Unsecure content being loaded, URL spoofing, etc
+Insecure interaction between the browser and the wallet, spoofing transactions, browser vulnerabilities compromising other parts of the application, insecure content being loaded, URL spoofing, etc
 
 
 **- Tech Stack**
