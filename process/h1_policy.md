@@ -143,7 +143,7 @@ It should keep your assets safe, make sure that any transaction is authorized
 
 **- What to look for?**
 
-Spoofing, tricking the user into signing a transaction, unsafe storage of keys etc.
+Compromise of the private key or seed phrase. Spoofing of a transaction (-recipient), tricking the user into signing a transaction, etc.
 
 **- Tech Stack**
 status-go (golang), status-react
