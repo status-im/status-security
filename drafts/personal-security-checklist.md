@@ -10,7 +10,7 @@ Those recommendations are valid for most Core Contributors who are not particula
 
 #### 🖥️📱 Computers & mobiles devices
 - [ ] Be aware of unwanted additions & customizations some manufacturers practice in the PC & Android world https://en.wikipedia.org/wiki/Pre-installed_software,
-- [ ] Be aware of the various End-of-life/Guaranteed security update policy for each manufacturer & device, especially in the Android world. For example [Google Pixel](https://support.google.com/pixelphone/answer/4457705?hl=en) & [Nokia](https://www.nokia.com/phones/en_int/security-updates) are known to offer fair update policies. Some manufacturers do not. Once a device do not receive security updates, not not use it anymore,
+- [ ] Be aware of the various End-of-life/Guaranteed security update policy for each manufacturer & device, especially in the Android world. For example [Google Pixel](https://support.google.com/pixelphone/answer/4457705?hl=en) & [Nokia](https://www.nokia.com/phones/en_int/security-updates) are known to offer fair update policies. Some manufacturers do not. Once a device do not receive security updates, do not use it anymore,
 - [ ] Password protect your BIOS/UEFI.
 
 #### 🔑 Hardware authentication devices
