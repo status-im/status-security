@@ -58,6 +58,7 @@ Favor software installed from an app store with automated update mechanisms.
 
 - [ ] Use a password manager, such as [Bitwarden](https://bitwarden.com),
 - [ ] Do not reuse passwords across applications & services,
+- [ ] Enable notifications/alerts for breaches of your email on [have i been pwned?](https://haveibeenpwned.com/) or [Firefox Monitor](https://monitor.firefox.com/)
 - [ ] Do not use phone number/SMS authentication as 2FA or backup option,
 - [ ] Enable Multi-Factor Authentication (MFA) whenever possible using either:
   - [ ] An hardware authentication device such as a Yubikey,
@@ -82,8 +83,7 @@ Favor software installed from an app store with automated update mechanisms.
 ### 📋 Others & General recommendations
 
 - [ ] If you are unsure about something, just ask the security team on dedicated channels,
-- [ ] Subscribe to the `#Emergencies` & `#Security-internal` non public channels to keep yourself up-to-date, make use of those channels if necessary,
-- [ ] Monitor yourself on https://haveibeenpwned.com/
+- [ ] Subscribe to the `#Emergencies` & `#Security-internal` non public channels to keep yourself up-to-date, make use of those channels if necessary.
 
 
 ## Going further 
