@@ -11,7 +11,7 @@ Those principle include Security, Privacy and Censorship resistance.
 It is generally believed that Linux is a very secure operating system. 
 The security will depend largely on the distribution & setup. 
 
-Some Linux solutions distributions [have achieved a very high level of security standards & certifications](https://access.redhat.com/articles/2918071)
+Some Linux distributions [have achieved a very high level of security standards & certifications](https://access.redhat.com/articles/2918071)
 
 ### ㊙️ Privacy 
 
