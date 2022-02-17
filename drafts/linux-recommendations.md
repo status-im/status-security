@@ -220,7 +220,7 @@ You will be in charge to update LedgerLive within the application itself.
 - Review services & firewall settings
 - Use an application Firewalls like OpenSnitch https://github.com/evilsocket/opensnitch 
 - Consider an immutable OS like Fedora Silverblue https://docs.fedoraproject.org/en-US/fedora-silverblue/ 
-- Sandbox application you do not fully trust with Firejail https://github.com/netblue30/firejail
+- Sandbox application you do not fully trust with Bubblewrap https://github.com/containers/bubblewrap
 - Use Flatseal if you are using Flathub https://github.com/tchx84/Flatseal 
 - Consider hardening Web browsers specific settings
 - Setup Yubikey for PAM login https://developers.yubico.com/yubico-pam/ 
