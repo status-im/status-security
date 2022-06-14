@@ -25,6 +25,8 @@ Status allows to expense 1 authentication device per contributor.
 
 Status allows to expense 1 hardware wallet per contributor.
 
+Always buy hardware security devices from the official website of the vendor (a lot of fake devices are sold on Amazon).
+
 #### 🖨️ Printers
 
 When printing recovery codes & very sensitive information, 
