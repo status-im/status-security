@@ -9,7 +9,7 @@ All of Status' audits and their respective resources can be found in the [audits
 This retainer has been stopped.
 
 ## Bug Bounty
-Status currently has a private campaign on the HackerOne platform for bug bounties. We are currently underway to expand this program’s scope and availability post-V1 mobile app release to become public and the de-facto standard method for reporting found vulnerabilities within the Status ecosystem. 
+Status currently run some bug bounty programs on [HackenProof](https://hackenproof.com/status-dot-im)
 
 ## Contact and Support
 If you have any information regarding the security of any entity in the Status Network, please email security@status.im or write in the [#status-security](https://get.status.im/chat/public/status-security) public channel.
