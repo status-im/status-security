@@ -85,7 +85,7 @@ Favor software installed from an app store with automated update mechanisms.
 ### 📋 Others & General recommendations
 
 - [ ] If you are unsure about something, just ask the security team on dedicated channels,
-- [ ] Subscribe to the `#Emergencies` & `#Security-internal` non public channels to keep yourself up-to-date, make use of those channels if necessary.
+- [ ] Follow the `#emergencies` & `#security` CC Community channels to keep yourself up-to-date, make use of those channels if necessary.
 
 
 ## Going further 
