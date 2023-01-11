@@ -94,7 +94,6 @@ Other popular Linux distributions includes:
 - CentOS https://www.centos.org/centos-stream/
 - RedHat Enterprise Linux https://developers.redhat.com/blog/2016/03/31/no-cost-rhel-developer-subscription-now-available
 - Linux Mint https://linuxmint.com/
-- Elementary OS https://elementary.io/ 
 
 and many more https://distrowatch.com/
 
@@ -184,8 +183,6 @@ On Fedora to apply quickly security updates:
 
 Try to stick to Firefox or Chromium because they are usually provided, hardened & updated by the Linux distribution.
 
-🐛 Be aware that if you want to use your Ledger with Metamask, since recently Firefox is your only option https://github.com/MetaMask/metamask-extension/issues/11219 
-
 Please do not install any extensions besides things you really need (like Metamask)
 
 Bookmark important URLs (Uniswap, etc.) once you have verified them.
@@ -211,9 +208,10 @@ You will be in charge to update LedgerLive within the application itself.
   - Fedora https://getfedora.org/security/
   - Ubuntu https://ubuntu.com/tutorials/how-to-verify-ubuntu
 - Password protect the BIOS/UEFI
-- Disable Intel ME / AMD PSP
+- Disable Intel ME / AMD PSP if you wish to
 - Network considerations & VPN https://wiki.gnome.org/Projects/NetworkManager/VPN 
 - Automatic updates https://docs.fedoraproject.org/en-US/quick-docs/autoupdates/ 
+- Check recommendations in the new "Device Security" panel of GNOME Settings  
 
 #### Optional
 
