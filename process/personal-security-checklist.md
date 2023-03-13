@@ -54,7 +54,8 @@ Favor software installed from an app store with automated update mechanisms.
 
 - [ ] Remove unused browser extensions,
 - [ ] Disable infrequently used browser extensions,
-- [ ] Bookmark commonly accessed critical websites such as banks, decentralized finance apps, etc.
+- [ ] Bookmark commonly accessed critical websites such as banks, decentralized finance apps, etc,
+- [ ] Disable the Autofill feature.
 
 ### 🗝️ Authentication
 
