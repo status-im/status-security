@@ -60,6 +60,7 @@ Please do not engage with infrastructure hosted on infra.status.im and all subdo
 For all other vulnerabilities, please consider (1) attack scenario/exploitability, and (2) security impact of the bug. The following issues are considered out of scope:
 
 * Current issues within the Status.im Github repositories (will be regarded as duplicates)
+* Issues in depreciated or archived Github repositories
 * Clickjacking on pages with no sensitive actions.
 * Unauthenticated/logout/login CSRF.
 * Attacks requiring MITM or physical access to a user's device.
