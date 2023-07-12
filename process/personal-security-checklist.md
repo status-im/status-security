@@ -86,7 +86,7 @@ Favor software installed from an app store with automated update mechanisms.
 ### 📋 Others & General recommendations
 
 - [ ] If you are unsure about something, just ask the security team on dedicated channels,
-- [ ] Follow the `#emergencies` & `#security` CC Community channels to keep yourself up-to-date, make use of those channels if necessary.
+- [ ] Follow the `#security` channel in Logos Discord server and in the Status app to keep yourself up-to-date, make use of those channels if necessary.
 
 
 ## Going further 
