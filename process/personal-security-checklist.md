@@ -64,7 +64,7 @@ Favor software installed from an app store with automated update mechanisms.
 - [ ] Enable notifications/alerts for breaches of your email on [have i been pwned?](https://haveibeenpwned.com/) or [Firefox Monitor](https://monitor.firefox.com/)
 - [ ] Do not use phone number/SMS authentication as 2FA or backup option,
 - [ ] Enable Multi-Factor Authentication (MFA) whenever possible using either:
-  - [ ] An hardware authentication device such as a Yubikey,
+  - [ ] A hardware authentication device such as a Yubikey,
   - [ ] A software-based authenticator such as [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator).
 
 ### ☁️ Online services & cloud
